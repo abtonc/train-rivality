@@ -1,0 +1,8 @@
+{
+  "output": "./output/",
+  "limit": 100,
+  "squareSize": 64,
+  "colorRange": 4,
+  "stroke": 0,
+  "debug": false
+}

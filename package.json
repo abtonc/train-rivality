@@ -1,0 +1,15 @@
+{
+  "name": "train-rivality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "abtonc",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gm": "^1.23.1"
+  }
+}
